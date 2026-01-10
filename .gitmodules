@@ -1,0 +1,6 @@
+[submodule "testbed/oai-mep"]
+	path = testbed/oai-mep
+	url = https://gitlab.eurecom.fr/oai/orchestration/oai-mec/oai-mep.git
+[submodule "testbed/oai-rnis"]
+	path = testbed/oai-rnis
+	url = https://gitlab.eurecom.fr/oai/orchestration/oai-mec/oai-rnis.git

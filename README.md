@@ -20,5 +20,3 @@ For the setup details, please follow the description in ```./testbed/``` folder.
 
 ### Running experiment
 
-
-### Test with your own datasets
