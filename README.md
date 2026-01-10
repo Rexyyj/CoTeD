@@ -7,16 +7,9 @@ This repository contains the implementation and descriptions of the CoTeD framew
 
 ## How to use this Repo
 
-### Testbed setup
-CoTeD framework is designed and evaluated on top of the testbed as the figure below shows.
-![](./figures/testbed.png)
+### 1. Testbed setup
+CoTeD is designed and validated on a UAV-5G-Edge testbed.
+For the testbed architecture and setup, please see the description in [```./testbed/```](https://github.com/Rexyyj/CoTeD/tree/master/testbed).
 
-The hardware devices used in the testbed includes:
-* Nvidia Jetson Orin Nano (as the UAV computation unit)
-* A laptop featuring an Intel I7-7700HQ CPU and Nvidia GTX 1050Ti GPU (as the edge server) 
-* USRP B210 x2 (as the radio interface)
-
-For the setup details, please follow the description in ```./testbed/``` folder.
-
-### Running experiment
+### 2. Running experiment
 
