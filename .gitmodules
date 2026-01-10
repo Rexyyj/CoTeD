@@ -4,3 +4,6 @@
 [submodule "testbed/oai-rnis"]
 	path = testbed/oai-rnis
 	url = https://gitlab.eurecom.fr/oai/orchestration/oai-mec/oai-rnis.git
+[submodule "testbed/openairinterface5G"]
+	path = testbed/openairinterface5G
+	url = https://gitlab.eurecom.fr/oai/openairinterface5g.git
