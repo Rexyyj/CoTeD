@@ -37,7 +37,7 @@ cfg_path = "../configs/yolov3.cfg"
 model_path = "../ckpt/stmarc_full.pth"
 testdata_path = "../../datasets/St_Marc_dataset/test_30_fps_long_cleaned.txt"
 class_name_path = "../../datasets/St_Marc_dataset/coco.names"
-log_dir = "../measurements_large/"
+log_dir = "../measurements/"
 
 bw_measurements = "../5G_bw_trace/5G_bw.csv"
 test_case = "test_mtlhq"
